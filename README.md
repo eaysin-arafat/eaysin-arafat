@@ -18,7 +18,6 @@ I am a React Developer, specializing in Frontend Development.
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=eaysin-arafat&limit=5&theme=dark&combine_all_yearly_contributions=true)
 ---
