@@ -1,8 +1,5 @@
-### Hi there 👋
-
-**eaysin-arafat/eaysin-arafat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+### Hello, I'm Eaysin Arafat
+I am a React Developer, specializing in Frontend Development.
 
 - 🌱 I’m currently learning **clean code, data structures, algorithms, and backend development**
 - 📫 How to reach me: **eaysin.arafat.j@gmail.com**
